@@ -1,4 +1,4 @@
-# Avery Alexander Rijos
+# Avery Alexander Rijos - _Systems Architect and Designer_
 
 ### Somerset, New Jersey
 
