@@ -89,6 +89,22 @@ My work is rooted in Ontopolitical Architectonics, my signature meta-cross-parad
 
 At the heart of my practice is the Codex of Generativity, a living knowledge organism that operationalizes paradox through recursive protocols, ritual inscriptions, and contradiction-harvesting engines like the SCAR (Systemic Contradiction Archive Residue) and the O-Loop Protocol. My aim is to build systems that remain anti-fragile — evolving through rupture, absorbing critique, and expanding the field of the dreamable.
 
+```
+⭗ CONTRADICTION HARVEST
+   ⭣
+⭗ SYMBOLIC INSCRIPTION (SCAR INDEX)
+   ⭣
+⭗ METABOLISM / REFRAME
+   ⭣
+⭗ DESIGN / ACTUALIZATION
+   ⭣
+⭗ ARCHIVE (DIALECTICAL MEMORY)
+   ⭣
+[ Loops to next CONTRADICTION HARVEST ]
+
+                ~ The O-Loop, Visualized.
+```
+
 Professionally, I bridge deep systems thinking, symbolic reasoning, and non-monotonic logic with practical solution architecture. My professional background spans financial systems design, FP&A reporting frameworks, project portfolio governance, and multi-domain requirements engineering. I have led teams through the complexities of reconciling disparate data pipelines, modularizing workflows, and integrating symbolic layers into real-world operations.
 
 Through PROMETHIVM, I steward intellectual property as living code — licensing frameworks, contradiction maps, and ritual-operational toolkits that help organizations transform structural tension into generative momentum. My design ethos is guided by the principle Good = d(OGI)/dt: the ethical measure of any system is its capacity to increase the velocity of collective world-making.
