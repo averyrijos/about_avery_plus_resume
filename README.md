@@ -87,7 +87,8 @@ My work is rooted in Ontopolitical Architectonics, my signature meta-cross-parad
 ====================================================================================
 ```
 
-At the heart of my practice is the Codex of Generativity, a living knowledge organism that operationalizes paradox through recursive protocols, ritual inscriptions, and contradiction-harvesting engines like the SCAR (Systemic Contradiction Archive Residue) and the O-Loop Protocol. My aim is to build systems that remain anti-fragile — evolving through rupture, absorbing critique, and expanding the field of the dreamable.
+#### The Codex of Generativity and The SCAR Theory of Systems
+At the heart of my practice is the Codex of Generativity, a living knowledge organism that operationalizes paradox through recursive protocols, ritual inscriptions, and contradiction-harvesting engines like the SCAR (Systemic Contradiction Archive Residual) and the O-Loop Protocol. My aim is to build systems that remain anti-fragile — evolving through rupture, absorbing critique, and expanding the field of the dreamable.
 
 ```
 ⭗ CONTRADICTION HARVEST
