@@ -42,9 +42,9 @@ Contributed to public discourse through published essays, research notes, and kn
 
 #### **PROMETHIVM - LLC** - May 2025 to Current
 
-**Founder & Principal Systems Architect**
+**Founder & Principal Systems Consultant**
 
-- **At** The PROMETHIVM Lab, I operate as a Systems Engineer specializing in designing and governing contradiction-centric, neuro-symbolic architectures that metabolize ontological tension into structured, generative knowledge systems.
+- **At** The PROMETHIVM Lab, I operate as a Systems Consultant specializing in designing, analyzing and governing contradiction-centric, complex systems that metabolize ontological tension into structured, generative knowledge systems.
 - **Rooted** in deep systems thinking, my work synthesizes symbolic reasoning, non-monotonic logic, and NLP-driven contradiction harvesting to architect recursive knowledge organisms that remain resilient and perpetually adaptive in the face of evolving complexity. I steward an integrated stack that fuses symbolic knowledge graphs, contradiction validation pipelines, and post-symbolic LLM expansions, ensuring that each module functions as an autonomous yet interdependent cell within a living dialectical engine.
 - **Beyond** technical design, my expertise bridges requirements engineering, stakeholder orchestration, and systems integration — translating ambiguous problem spaces into precise, scalable designs that align human values with AI capabilities. I design modular contradiction interfaces, explainable validation engines, and architectures that maintain human-centered oversight while enabling robust human–AI collaboration
 
