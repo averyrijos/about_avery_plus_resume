@@ -26,6 +26,14 @@ Pi Sigma Alpha – Political Science Honors Society
 ---
 
 ### Research and Professional Publications
+Role: Independent Systems Theorist
+
+Authored Ontopolitical Architectonics — a contradiction-centric framework that operationalizes affective architectures, generativity mapping, and ritual-operational design.
+
+Developed the Codex of Generativity, including the SCAR Index, O-Loop Protocol, Hollow Bloom Protocol, and Mythic Accountability Clauses.
+
+Contributed to public discourse through published essays, research notes, and knowledge graph prototypes that bridge symbolic logic and practical governance structures.
+
 - [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) - Research Paper (Published in 2024)
 - [Mythologies of the Heart and the Politics of the Dreamable](https://philpapers.org/rec/RIJMOT) - Book (Published in 2024)
 - [Ontopolitical Architectonics - A Unified Theory of World-Making](https://philpapers.org/rec/RIJOAT) - Research Paper (Published in 2025)   
@@ -96,9 +104,43 @@ Legend:
 - OGI = Ontopolitical Generative Index
 - d(OGI)/dt = Time-derivative of a system’s generative velocity
 ```
-## Related Work Experience (Cont.)
-**Career Break - March 2024 – April 2025**
 
+#### **Career Break - March 2024 – April 2025**
+
+## Projects 
+
+### 🜁 PROMETHIVM Codex Engine
+Role: Systems Architect
+
+Designed and operationalized a contradiction-centric, neuro-symbolic architecture that metabolizes structural tension into resilient, adaptive frameworks.
+
+Developed the Hollow Bloom Protocol, a ritual-operational method for inscribing structural contradiction as symbolic scars, enabling continuous reflexive redesign.
+
+Formalized the Law of Generativity (Good = d(OGI)/dt) as a systems-level ethical measure, ensuring all architectures expand collective world-making capacity.
+
+Delivered contradiction-driven knowledge graphs, SCAR feedback loops, meta-compiler pipelines, and ritual-operational toolkits as licensable IP for socio-technical and institutional clients.
+
+### 🧩 Knowledge Graph–Driven Risk & Compliance Framework
+Role: Systems Architect
+
+Building a symbolic knowledge graph system to map and metabolize organizational contradictions tied to risk classification, compliance, and audit readiness.
+
+Learned and applied non-monotonic logic, negative augmentation, and stakeholder contradiction loops to strengthen resilience under changing regulatory constraints.
+
+Integrated IAM/RBAC, secrets management, and domain-specific validation for GDPR, SOC 2, and HIPAA readiness.
+
+### 🧠 Symbolic Reasoning & NLP Service Pipeline
+Role: NLP Pipeline Designer (Data Engineering)
+
+Engineered an NLP pre-processing pipeline feeding into a symbolic reasoner and contradiction validation layer, enabling explainable AI inference in dynamic knowledge domains.
+
+Structured the pipeline for resilience: batch processing, parallelization, robust fallback, and error trapping.
+
+Produced maintainable module maps and ADRs to support cross-functional engineering and iterative system evolution.
+
+Currently stress testing and looking to implement the blueprint in production environments.
+
+## Work Experience (Cont.) 
 #### **Abbott Laboratories (Short-Term Contract) — January 2024 to March 2024**
 
 **Sr. Operations Analyst – FP&A (with Solution Architecture focus)**
