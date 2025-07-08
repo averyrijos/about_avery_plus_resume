@@ -109,7 +109,7 @@ Legend:
 
 ## Projects 
 
-### 🜁 PROMETHIVM Codex Engine
+### 🜁 [PROMETHIVM Codex Engine](https://github.com/averyrijos/codex-of-generativity)
 Role: Systems Architect
 
 Designed and operationalized a contradiction-centric, neuro-symbolic architecture that metabolizes structural tension into resilient, adaptive frameworks.
@@ -125,20 +125,20 @@ Role: Systems Architect
 
 Building a symbolic knowledge graph system to map and metabolize organizational contradictions tied to risk classification, compliance, and audit readiness.
 
-Learned and applied non-monotonic logic, negative augmentation, and stakeholder contradiction loops to strengthen resilience under changing regulatory constraints.
+Learned and applied non-monotonic logic, negative augmentation, and stakeholder contradiction loops as design inputs towards strengthening organizational resilience under changing regulatory constraints.
 
-Integrated IAM/RBAC, secrets management, and domain-specific validation for GDPR, SOC 2, and HIPAA readiness.
+Integrated IAM/RBAC, secrets management, and domain-specific validation for GDPR, SOC 2, and HIPAA readiness in schematics, specifications, and requirements engineering.
 
 ### 🧠 Symbolic Reasoning & NLP Service Pipeline
 Role: NLP Pipeline Designer (Data Engineering)
 
-Engineered an NLP pre-processing pipeline feeding into a symbolic reasoner and contradiction validation layer, enabling explainable AI inference in dynamic knowledge domains.
+Engineered an NLP pre-processing pipeline feeding into a symbolic reasoner and contradiction validation layer, enabling explainable AI inference in dynamic knowledge domains. 
 
 Structured the pipeline for resilience: batch processing, parallelization, robust fallback, and error trapping.
 
 Produced maintainable module maps and ADRs to support cross-functional engineering and iterative system evolution.
 
-Currently stress testing and looking to implement the blueprint in production environments.
+Currently stress testing and looking to implement the blueprint in production environments. 
 
 ## Work Experience (Cont.) 
 #### **Abbott Laboratories (Short-Term Contract) — January 2024 to March 2024**
