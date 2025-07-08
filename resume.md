@@ -25,6 +25,10 @@ Pi Sigma Alpha – Political Science Honors Society
 
 ---
 
+### Research
+- [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) (Published in 2024)
+- Ontopolitical Architectonics - Towards A Unified Theory of Becoming (Forthcoming in The Philosophy Research Archive)   
+
 ## PROFESSIONAL WORK EXPERIENCE
 
 #### **PROMETHIVM - LLC** - May 2025 to Current
