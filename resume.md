@@ -27,7 +27,7 @@ Pi Sigma Alpha – Political Science Honors Society
 
 ---
 
-# PROFESSIONAL WORK EXPERIENCE
+## PROFESSIONAL WORK EXPERIENCE
 
 #### **PROMETHIVM - LLC**
 
