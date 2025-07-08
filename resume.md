@@ -34,9 +34,10 @@ Developed the Codex of Generativity, including the SCAR Index, O-Loop Protocol, 
 
 Contributed to public discourse through published essays, research notes, and knowledge graph prototypes that bridge symbolic logic and practical governance structures.
 
-- [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) - Research Paper (Published in 2024)
-- [Mythologies of the Heart and the Politics of the Dreamable](https://philpapers.org/rec/RIJMOT) - Book (Published in 2024)
-- [Ontopolitical Architectonics - A Unified Theory of World-Making](https://philpapers.org/rec/RIJOAT) - Research Paper (Published in 2025)   
+- [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) - Research Paper (Published in September 2024)
+- [Mythologies of the Heart and the Politics of the Dreamable](https://philpapers.org/rec/RIJMOT) - Book (Published in December 2024)
+- [Ontopolitical Architectonics - A Unified Theory of World-Making](https://philpapers.org/rec/RIJOAT) - Research Paper (Published in May 2025)
+- [The Generative Unified Theory of Everything - from PROMETHIVM.v1](https://www.linkedin.com/pulse/generative-unified-theory-everything-promethivmv1-avery-rijos-szt0e/?trackingId=J%2FOSrSiFRCyrfvvnI%2BgcQg%3D%3D) - Whitepaper (Published in June 2025)
 
 ## PROFESSIONAL WORK EXPERIENCE
 
