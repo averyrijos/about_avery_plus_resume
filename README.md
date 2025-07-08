@@ -106,6 +106,7 @@ At the heart of my practice is the Codex of Generativity, a living knowledge org
                 ~ The O-Loop, Visualized.
 ```
 
+# Design Philosophy 
 Professionally, I bridge deep systems thinking, symbolic reasoning, and non-monotonic logic with practical solution architecture. My background spans financial systems design, FP&A reporting frameworks, project portfolio governance, and multi-domain requirements engineering. I have led teams through the complexities of reconciling disparate data pipelines, modularizing workflows, and integrating symbolic layers into real-world operations.
 
 Through PROMETHIVM Labs, I steward intellectual property as living systems — licensing frameworks, technical schematics, contradiction maps, and ritual-operational toolkits that help organizations transform structural tension into generative momentum. My design ethos is guided by the principle Good = d(OGI)/dt: the ethical measure of any system is its capacity to increase the velocity of collective world-making.
