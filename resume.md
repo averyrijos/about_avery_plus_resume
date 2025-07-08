@@ -2,8 +2,6 @@
 
 ### Somerset, New Jersey
 
-### (732) 688-8287
-
 #### [Email: averyarijos@outlook.com](mailto:averyarijos@outlook.com)
 
 #### <https://www.linkedin.com/in/avery-rijos/>
