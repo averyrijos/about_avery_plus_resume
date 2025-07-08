@@ -27,7 +27,7 @@ Pi Sigma Alpha – Political Science Honors Society
 
 ## PROFESSIONAL WORK EXPERIENCE
 
-#### **PROMETHIVM - LLC**
+#### **PROMETHIVM - LLC** - May 2025 to Current
 
 **Founder & Principal Systems Architect**
 
