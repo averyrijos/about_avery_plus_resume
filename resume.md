@@ -26,8 +26,9 @@ Pi Sigma Alpha – Political Science Honors Society
 ---
 
 ### Research
-- [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) (Published in 2024)
-- Ontopolitical Architectonics - Towards A Unified Theory of Becoming (Forthcoming in The Philosophy Research Archive)   
+- [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) - Research Paper (Published in 2024)
+- [Mythologies of the Heart and the Politics of the Dreamable](https://philpapers.org/rec/RIJMOT) - Book (Published in 2024)
+- [Ontopolitical Architectonics - Towards A Unified Theory of Becoming](https://github.com/averyrijos/ontopolitical-architectonics) - Research Paper (Available on Github - Forthcoming in The Philosophy Research Archive)   
 
 ## PROFESSIONAL WORK EXPERIENCE
 
