@@ -50,7 +50,7 @@ Requirements Engineering               ║ Elicits, validates, and traces multi-
 Symbolic Reasoning Integration         ║ Implements knowledge graphs & symbolic logic engines for complex governance.
 Non-Monotonic Logic Design             ║ Applies defeasible and contradiction-tolerant reasoning systems in workflows.
 Systemic Risk Modeling                 ║ Constructs feedback-sensitive compliance and decision layers under uncertainty.
-Modularization & Encapsulation        ║ Structures scalable and testable modules using cell-based logic abstraction.
+Modularization & Encapsulation         ║ Structures scalable & testable modules using cell-based logic abstraction.
 Platform Interoperability              ║ Aligns disparate ecosystems (e.g., SAP, TM1, Power BI) through semantic binding.
 Complex Systems Analysis               ║ Models interdependencies and emergent behavior using CAS and cybernetic lenses.
 Toolchains & Frameworks                ║ Skilled in: BPMN, ADRs, UML, Gantt, VSM, Kano Models, Cynefin Framework.
@@ -76,7 +76,7 @@ Documentation Rigor                    ║ Crafts comprehensive requirement sets
 Hollow Bloom Protocol                  ║ A contradiction metabolism ritual that transforms systemic wounds into design.
 Law of Generativity                    ║ Ethical metric defined as d(OGI)/dt: good equals the velocity of collective world-making.
 PROMETHIVM Codex Engine                ║ Domain-sovereign ritual-operational compiler for contradiction-aware architectures.
-SCAR System (Structured Contradiction Archive & Retrieval) ║ Converts ontological conflict into recursive design feedstock.
+S.C.A.R. System                        ║ Converts ontological conflict into recursive design feedstock.
 Symbolic Augmentation Pipeline         ║ Bridges LLM-driven NLP with symbolic interpretation layers for resilient systems.
 Posthumanist Systems Methodology       ║ Applies affective architectures, virtual actualization, and mytho-political mapping.
 
