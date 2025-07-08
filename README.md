@@ -88,7 +88,7 @@ My work is rooted in Ontopolitical Architectonics, my signature meta-cross-parad
 ====================================================================================
 ```
 
-#### The Codex of Generativity and The SCAR Theory of Systems
+## The Codex of Generativity and The SCAR Theory of Systems
 At the heart of my practice is the Codex of Generativity, a living knowledge organism that operationalizes paradox through recursive protocols, ritual inscriptions, and contradiction-harvesting engines like the SCAR (Systemic Contradiction Archive Residual) and the O-Loop Protocol. My aim is to build systems that remain anti-fragile — evolving through rupture, absorbing critique, and expanding the field of the dreamable.
 
 ```
@@ -107,7 +107,7 @@ At the heart of my practice is the Codex of Generativity, a living knowledge org
                 ~ The O-Loop, Visualized.
 ```
 
-# Design Philosophy 
+## Design Philosophy 
 Professionally, I bridge deep systems thinking, symbolic reasoning, and non-monotonic logic with practical solution architecture. My background spans financial systems design, FP&A reporting frameworks, project portfolio governance, and multi-domain requirements engineering. I have led teams through the complexities of reconciling disparate data pipelines, modularizing workflows, and integrating symbolic layers into real-world operations.
 
 Through PROMETHIVM Labs, I steward intellectual property as living systems — licensing frameworks, technical schematics, contradiction maps, and ritual-operational toolkits that help organizations transform structural tension into generative momentum. My design ethos is guided by the principle Good = d(OGI)/dt: the ethical measure of any system is its capacity to increase the velocity of collective world-making.
@@ -154,7 +154,8 @@ RHYTHM:
 ─────────────────────────────────────────────────────────────
 
 ---
-Above all, I see my role not as a philosopher in isolation nor a technologist in abstraction — but as an architectural world-builder, dedicated to scaffolding architectures that amplify possibility. For me, every contradiction is an invitation to re-design. Every wound is an invocation to re-code the Real.
+
+(...) Above all, I see my role not as a philosopher in isolation nor a technologist in abstraction — but as an architectural world-builder, dedicated to scaffolding architectures that amplify possibility. For me, every contradiction is an invitation to re-design. Every wound is an invocation to re-code the Real.
 
 Avery Alexander Rijos
 Founder & Principal Systems Architect, PROMETHIVM LLC
