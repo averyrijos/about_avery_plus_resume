@@ -1,6 +1,6 @@
 # About Avery 
 
-I am a contradiction-centric systems architect, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design lab dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
+I am a contradiction-centric systems consultant, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design think tank dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
 
 I am a theorist and an engineer. A thinker and a doer. A philosopher and a scientist. An realist and a dreamer. 
 
@@ -158,5 +158,6 @@ RHYTHM:
 (...) Above all, I see my role not as a philosopher in isolation nor a technologist in abstraction — but as an architectural world-builder, dedicated to scaffolding architectures that amplify possibility. For me, every contradiction is an invitation to re-design. Every wound is an invocation to re-code the Real.
 
 Avery Alexander Rijos
-Founder & Principal Systems Architect, PROMETHIVM LLC
+Founder & Principal Consultant | Systems Analysis and Design 
+PROMETHIVM LLC
 📍 Somerset, NJ | [Linkedin](https://www.linkedin.com/in/avery-rijos/) | averyarijos@outlook.com
