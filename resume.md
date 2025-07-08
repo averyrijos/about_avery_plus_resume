@@ -1,10 +1,10 @@
 # Avery Alexander Rijos - _Systems Architect and Designer_
 
-### Somerset, New Jersey
+Somerset, New Jersey
 
-#### [Email: averyarijos@outlook.com](mailto:averyarijos@outlook.com)
+[Email: averyarijos@outlook.com](mailto:averyarijos@outlook.com)
 
-#### <https://www.linkedin.com/in/avery-rijos/>
+<https://www.linkedin.com/in/avery-rijos/>
 
 ---
 
