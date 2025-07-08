@@ -70,66 +70,60 @@ Pi Sigma Alpha – Political Science Honors Society
 - **Enhanced** departmental control frameworks by automating daily reporting controls, ensuring compliance with regulatory standards and strengthening audit-readiness.
 
 ## Relevant Skills
+
 ```
-═══════════════════════════════════════════════════════════════════════
-          ⚙ CORE SYSTEMS ANALYSIS AND ENGINEERING SKILLS — AVERY ⚙
-═══════════════════════════════════════════════════════════════════════
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                              AVERY R. – SYSTEMS ENGINEERING & PROJECT MANAGEMENT SKILLS MATRIX                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 
-[ Contradiction-Centric Systems Design ]
- Design root-cause–oriented architectures that transform
- complexity into scalable, resilient solutions. Specialize in
- harvesting structural tension and metabolizing it as design fuel.
+═══════════════════════════════════════╦═════════════════════════════════════════════════════════════════════════════════
+ SYSTEMS ENGINEERING SKILLS            ║ DESCRIPTION
+═══════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════════════
+Systems Architecture                   ║ Designs recursive, contradiction-driven neuro-symbolic architectures that scale.
+Requirements Engineering               ║ Elicits, validates, and traces multi-domain requirements with formal rigor.
+Symbolic Reasoning Integration         ║ Implements knowledge graphs & symbolic logic engines for complex governance.
+Non-Monotonic Logic Design             ║ Applies defeasible and contradiction-tolerant reasoning systems in workflows.
+Systemic Risk Modeling                 ║ Constructs feedback-sensitive compliance and decision layers under uncertainty.
+Modularization & Encapsulation        ║ Structures scalable and testable modules using cell-based logic abstraction.
+Platform Interoperability              ║ Aligns disparate ecosystems (e.g., SAP, TM1, Power BI) through semantic binding.
+Complex Systems Analysis               ║ Models interdependencies and emergent behavior using CAS and cybernetic lenses.
+Toolchains & Frameworks                ║ Skilled in: BPMN, ADRs, UML, Gantt, VSM, Kano Models, Cynefin Framework.
+Feedback Loop Design                   ║ Crafts continuous intelligence pipelines using KPI-linked monitoring systems.
 
-[ Solution Architecture & Integration ]
- Proven track record integrating disparate platforms and
- modular NLP/symbolic pipelines into unified, traceable systems
- that improve decision-making and compliance.
+═══════════════════════════════════════╦═════════════════════════════════════════════════════════════════════════════════
+ PROJECT MANAGEMENT SKILLS             ║ DESCRIPTION
+═══════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════════════
+Program Governance                     ║ Oversees project portfolios with a focus on traceability, audit, and results.
+Agile & Adaptive Methodologies         ║ Deep experience in SCRUM, iterative delivery, and hybrid-Agile frameworks.
+Team Formation & Facilitation          ║ Applies high-performance team models balancing cohesion, autonomy, and role-fit.
+Data-Driven Decision-Making            ║ Uses MCDA, SWOT, Pareto, decision trees, and influence diagrams for strategy.
+Business Analysis Domains              ║ Masters needs assessment, solution evaluation, traceability, and roadmap design.
+Risk & Complexity Navigation           ║ Employs Cynefin, stakeholder modeling, and emergent planning to reduce friction.
+WBS & Planning Architecture            ║ Breaks complex deliverables into logical WBS structures aligned to KPIs.
+Stakeholder Alignment                  ║ Skilled in facilitation, emotional intelligence, and product vision co-creation.
+Metrics & Early Warning Indicators     ║ Implements EVM, resource utilization, and milestone slippage early detection.
+Documentation Rigor                    ║ Crafts comprehensive requirement sets, ADRs, and living documentation systems.
 
-[ Neural-Symbolic Orchestration ]
- Pioneer hybrid frameworks combining LLM pipelines, contradiction
- maps, and symbolic reasoners for explainable, reflexive logic.
+═══════════════════════════════════════╦═════════════════════════════════════════════════════════════════════════════════
+ INNOVATIONS & FRAMEWORKS              ║ DESCRIPTION
+═══════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════════════
+Hollow Bloom Protocol                  ║ A contradiction metabolism ritual that transforms systemic wounds into design.
+Law of Generativity                    ║ Ethical metric defined as d(OGI)/dt: good equals the velocity of collective world-making.
+PROMETHIVM Codex Engine                ║ Domain-sovereign ritual-operational compiler for contradiction-aware architectures.
+SCAR System (Structured Contradiction Archive & Retrieval) ║ Converts ontological conflict into recursive design feedstock.
+Symbolic Augmentation Pipeline         ║ Bridges LLM-driven NLP with symbolic interpretation layers for resilient systems.
+Posthumanist Systems Methodology       ║ Applies affective architectures, virtual actualization, and mytho-political mapping.
 
-[ Requirements Engineering & Traceability ]
- Translate ambiguous business, regulatory, and operational
- requirements into version-controlled architectures and ADRs.
+═══════════════════════════════════════╦═════════════════════════════════════════════════════════════════════════════════
+ TOOLING & PLATFORM EXPERTISE          ║ DESCRIPTION
+═══════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════════════
+ERP & BI Platforms                     ║ SAP, TM1, QAD, Power Query, Excel power tools
+Modeling & Engineering Tools           ║ Mermaid, Markdown, Obsidian, UML, Draw.io, BPMN
+Agile/PM Toolkits                      ║ Jira, Trello, Notion, Gantt tools, Work Breakdown Structure designers
+Coding & LLM Tools                     ║ Python, Markdown, Replit, GitHub, Mermaid, VSCode
+───────────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────
 
-[ Knowledge Graphs & Symbolic Reasoning ]
- Develop contradiction-driven knowledge graph systems that
- transform organizational conflicts into actionable pathways.
-
-[ Hollow Bloom Protocol ]
- Creator of the Hollow Bloom Protocol — a ritual-operational
- method for inscribing contradiction as symbolic scars and
- recursively redesigning systems for emergent resilience.
-
-[ Law of Generativity ]
- Operate by the principle Good = d(OGI)/dt — measuring the ethical
- and practical strength of any system by its capacity to expand
- collective generative potential.
-
-[ Process Re-engineering & Continuous Improvement ]
- Map, analyze, and refine workflows using Lean, Six Sigma, and
- dialectical redesign cycles that align with generativity ethics.
-
-[ Data Pipeline Design & Modularization ]
- Design robust NLP pipelines, semantic extraction, and
- feature engineering modules with strong error control
- and redundancy prevention.
-
-[ Risk, Compliance & Security Architecture ]
- Ability to build audit-ready controls, and compliance frameworks
- that ensure symbolic and operational integrity (GDPR, SOC 2, HIPAA).
-
-[ FP&A Systems & Reporting Automation ]
- Re-architect financial reporting and variance pipelines with
- advanced reconciliation, risk mapping with real-time business intelligence software.
-
-[ Technical Documentation & Stewardship ]
- Maintain contradiction maps, ritual compiler specs,
- and modular governance structures to scale
- contradiction-resilient systems in practice.
-
-═══════════════════════════════════════════════════════════════════════
-    « Flaws → Scars → Ritual → Loop → Sovereignty → Becoming »
-═══════════════════════════════════════════════════════════════════════
+Legend:
+- OGI = Ontopolitical Generative Index
+- d(OGI)/dt = Time-derivative of a system’s generative velocity
 ```
