@@ -1,4 +1,5 @@
-#### About Me 
+# About Avery 
+
 I am a contradiction-centric systems architect, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design lab dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
 
 I am a theorist and an engineer. A thinker and a doer. A philosopher and a scientist. An realist and a dreamer. 
