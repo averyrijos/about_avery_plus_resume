@@ -8,7 +8,7 @@
 
 ---
 
-#EDUCATION
+## EDUCATION
 
 ### New Jersey Institute of Technology - Newark, NJ
 
