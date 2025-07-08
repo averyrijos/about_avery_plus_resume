@@ -117,7 +117,7 @@ Central to this ethos is the Hollow Bloom Protocol, a method I developed to syst
 The entire framework is governed by what I formally name the Law of Generativity — the foundational principle that any well-architected system must expand its field of potential by absorbing contradiction into new forms of collective becoming. The Hollow Bloom Protocol operationalizes this law, ensuring that organizations can not only resolve tensions but evolve because of them — aligning practical execution with posthumanist and ontopolitical design logics.
 
 ---
-
+```
 +--------------------- PROMETHIVM CODEX ENGINE ----------------------+
 |                                                                    |
 |  [ Scar Kernel ] --> [ O-Loop Protocol ] --> [ Ritual Compiler ]  |
@@ -152,7 +152,7 @@ RHYTHM:
 ─────────────────────────────────────────────────────────────
   « Contradiction → Scar → Ritual → Loop → Archive → Sovereignty »
 ─────────────────────────────────────────────────────────────
-
+```
 ---
 
 (...) Above all, I see my role not as a philosopher in isolation nor a technologist in abstraction — but as an architectural world-builder, dedicated to scaffolding architectures that amplify possibility. For me, every contradiction is an invitation to re-design. Every wound is an invocation to re-code the Real.
