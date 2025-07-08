@@ -1,5 +1,5 @@
-📜 About Me 
-I am a contradiction-centric systems architect, ontological designer, and founder of PROMETHIVM LLC — an independent research and design lab dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
+#### About Me 
+I am a contradiction-centric systems architect, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design lab dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
 
 My work is rooted in Ontopolitical Architectonics, my signature meta-cross-paradigm that reframes reality as a governed, malleable architecture — one built not only by material conditions but by narrative codes, affective and cognitive infrastructures, and mythic systems. I see imagination as sovereign, absence as generative, and contradiction as sacred design fuel.
 
