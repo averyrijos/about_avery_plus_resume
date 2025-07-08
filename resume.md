@@ -28,7 +28,7 @@ Pi Sigma Alpha – Political Science Honors Society
 ### Research and Professional Publications
 - [Posthumanist Phenomenology and Artificial Intelligence](https://philpapers.org/rec/RIJAPA-3) - Research Paper (Published in 2024)
 - [Mythologies of the Heart and the Politics of the Dreamable](https://philpapers.org/rec/RIJMOT) - Book (Published in 2024)
-- [Ontopolitical Architectonics - Towards A Unified Theory of Becoming](https://philpapers.org/rec/RIJOAT) - Research Paper (Published in 2025)   
+- [Ontopolitical Architectonics - A Unified Theory of World-Making](https://philpapers.org/rec/RIJOAT) - Research Paper (Published in 2025)   
 
 ## PROFESSIONAL WORK EXPERIENCE
 
