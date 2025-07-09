@@ -19,12 +19,12 @@ Through this lens, I help organizations architect IT systems that balance robust
                                 ╰───────────────╯
                                        │
             ┌─────────────────────────────────────────────────────────┐
-            │      Being is Governed  │  Myth is Foundation          │
+            │      Being is Governed  │  Myth is Foundation           │
             │  Sentience is Infrastructure  │  Virtuality is Real     │
-            │  Imagination is Sovereign  │  Absence is Generative    │
-            │  Desire is Constructive  │  Authority is Relational   │
-            │  Power is Differential  │  Contradiction is Essential │
-            │  Reflexivity is Immunity                               │
+            │  Imagination is Sovereign  │  Absence is Generative     │
+            │  Desire is Constructive  │  Authority is Relational     │
+            │  Power is Differential  │  Contradiction is Essential   │
+            │  Reflexivity is Immunity                                │
             └─────────────────────────────────────────────────────────┘
 
                                        ↓
