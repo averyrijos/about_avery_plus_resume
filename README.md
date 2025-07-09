@@ -2,7 +2,7 @@
 
 I am a contradiction-centric systems consultant, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design think tank dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
 
-I am a theorist and an engineer. A thinker and a doer. A philosopher and a scientist. An realist and a dreamer. 
+I am a theorist and an engineer. A thinker and a doer. A philosopher and a scientist. A realist and a dreamer. 
 
 My work is rooted in Ontopolitical Architectonics, my signature meta-cross-paradigm that reframes reality as a governed, malleable architecture — one built not only by material conditions but by narrative codes, affective and cognitive infrastructures, and mythogenic systems. I see imagination as sovereign, absence and error as generative, and contradiction as sacred design fuel.
 
