@@ -1,9 +1,9 @@
 © [2025] Avery Rijos. All rights reserved.
 # About Avery 
 
-I am a systems consultant, ontological designer, and founder of PROMETHIVM — an independent IT systems design and analysis consultancy dedicated to building contradiction-resilient IT systems that transform complexity into structured, actionable knowledge.
+I am a systems consultant, principal project manager, and founder of PROMETHIVM — an independent project management consultancy dedicated to building contradiction-resilient project systems that transform complexity into structured, actionable knowledge.
 
-I bridge theory and implementation. I am both a systems thinker and a practical engineer. I combine rigorous analysis with creative problem-solving to deliver IT architectures that adapt, evolve, and align with changing organizational realities.
+I bridge theory and implementation. I am both a systems thinker and a practical engineer. I combine rigorous analysis with creative problem-solving to create not just deliverables but tangible business value that adapts, evolves, and aligns with changing organizational realities.
 
 My approach is rooted in Ontopolitical Architectonics — a cross-disciplinary framework that treats systems not just as technical infrastructures, but as dynamic, governed architectures shaped by people, data, workflows, and the stories they tell. I see complexity as potential, gaps as opportunities, and contradictions as catalysts for more resilient design.
 
