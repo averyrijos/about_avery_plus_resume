@@ -1,4 +1,4 @@
-# Avery Alexander Rijos - _Systems Architect and Designer_
+# Avery Alexander Rijos - Principal Consultant | Systems Engineering & Program Management
 
 Somerset, New Jersey
 
