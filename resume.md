@@ -46,9 +46,11 @@ Contributed to public discourse through published essays, research notes, and kn
 
 **Founder & Principal Systems Consultant**
 
-- **At** The PROMETHIVM Lab, I operate as a Systems Consultant specializing in designing, analyzing and governing contradiction-centric, complex systems that metabolize ontological tension into structured, generative knowledge systems.
-- **Rooted** in deep systems thinking, my work synthesizes symbolic reasoning, non-monotonic logic, and NLP-driven contradiction harvesting to architect recursive knowledge organisms that remain resilient and perpetually adaptive in the face of evolving complexity. I steward an integrated stack that fuses symbolic knowledge graphs, contradiction validation pipelines, and post-symbolic LLM expansions, ensuring that each module functions as an autonomous yet interdependent cell within a living dialectical engine.
-- **Beyond** technical design, my expertise bridges requirements engineering, stakeholder orchestration, and systems integration — translating ambiguous problem spaces into precise, scalable designs that align human values with AI capabilities. I design modular contradiction interfaces, explainable validation engines, and architectures that maintain human-centered oversight while enabling robust human–AI collaboration
+- I design and govern complex, contradiction-resilient systems that transform ambiguity into structured, actionable knowledge. My work bridges deep systems architecture and program management, ensuring that every solution remains adaptive and aligned with evolving needs.
+
+- I specialize in architecting recursive knowledge frameworks that integrate symbolic reasoning, non-monotonic logic, and NLP-driven contradiction harvesting. This enables organizations to maintain resilient, explainable systems that evolve with complexity rather than break under it.
+
+- As both a technical architect and program manager, I translate high-level strategies and requirements into precise, scalable roadmaps. I lead stakeholder orchestration, requirements engineering, and systems integration to deliver outcomes that align human values with advanced AI capabilities always maintaining oversight, accountability, and clear communication at every layer.
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -63,7 +65,7 @@ Requirements Engineering               ║ Elicits, validates, and traces multi-
 Symbolic Reasoning Integration         ║ Implements knowledge graphs & symbolic logic engines for complex governance.
 Non-Monotonic Logic Design             ║ Applies defeasible and contradiction-tolerant reasoning systems in workflows.
 Systemic Risk Modeling                 ║ Constructs feedback-sensitive compliance and decision layers under uncertainty.
-Modularization & Encapsulation         ║ Structures scalable & testable modules using cell-based logic abstraction.
+Modularization & Encapsulation         ║ Structures scale & testable modules using cell-based logic abstraction.
 Platform Interoperability              ║ Aligns disparate ecosystems (e.g., SAP, TM1, Power BI) through semantic binding.
 Complex Systems Analysis               ║ Models interdependencies and emergent behavior using CAS and cybernetic lenses.
 Toolchains & Frameworks                ║ Skilled in: BPMN, ADRs, UML, Gantt, VSM, Kano Models, Cynefin Framework.
@@ -143,11 +145,11 @@ Produced maintainable module maps and ADRs to support cross-functional engineeri
 Currently stress testing and looking to implement the blueprint in production environments. 
 
 ## Work Experience (Cont.) 
-#### **Abbott Laboratories (Short-Term Contract) — January 2024 to March 2024**
+#### **Abbott oratories (Short-Term Contract) — January 2024 to March 2024**
 
 **Sr. Operations Analyst – FP&A (with Solution Architecture focus)**
 
-- **Designed** and optimized end-to-end financial reporting architecture for a global unit generating ~$45M in monthly revenue, building standardized pipelines for daily, weekly, and annual reporting that improved consistency, traceability, and scalability.
+- **Designed** and optimized end-to-end financial reporting architecture for a global unit generating ~$45M in monthly revenue, building standardized pipelines for daily, weekly, and annual reporting that improved consistency, traceability, and scaility.
 - **Integrated** disparate data sources (SAP, QAD, ISS, and internal systems) into a unified reporting framework, enhancing data quality and providing stakeholders with a single source of truth for strategic decision-making.
 - **Developed** robust reconciliation and validation frameworks (variance, sensitivity, scenario analyses) to ensure financial data integrity, aligning technical workflows with business objectives.
 - **Architected** reporting modules to clarify variances and business impacts, ensuring alignment with month-end close cycles and mitigating risks from currency fluctuations, intercompany transactions, and accrual adjustments.
