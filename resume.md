@@ -46,11 +46,11 @@ Contributed to public discourse through published essays, research notes, and kn
 
 **Founder & Principal Systems Consultant**
 
-- I design and govern complex, contradiction-resilient systems that transform ambiguity into structured, actionable knowledge. My work bridges deep systems architecture and program management, ensuring that every solution remains adaptive and aligned with evolving needs.
+-At The PROMETHIVM Lab, I design, analyze, and manage complex IT systems across the full Software Development Life Cycle (SDLC). I specialize in bridging systems architecture with program management to ensure that every solution is scalable, resilient, and aligned with stakeholder needs.
 
-- I specialize in architecting recursive knowledge frameworks that integrate symbolic reasoning, non-monotonic logic, and NLP-driven contradiction harvesting. This enables organizations to maintain resilient, explainable systems that evolve with complexity rather than break under it.
+- Rooted in deep systems thinking, my work focuses on requirements engineering, solution architecture, and integrated governance frameworks that keep projects adaptive and on track. I translate complex business objectives into clear technical roadmaps, oversee cross-functional teams, and maintain stakeholder alignment throughout the SDLC — from discovery and design through development, testing, and deployment.
 
-- As both a technical architect and program manager, I translate high-level strategies and requirements into precise, scalable roadmaps. I lead stakeholder orchestration, requirements engineering, and systems integration to deliver outcomes that align human values with advanced AI capabilities always maintaining oversight, accountability, and clear communication at every layer.
+- As both a systems analyst and technical program manager, I ensure that every project balances big-picture strategy with day-to-day execution, delivering robust IT systems that meet today’s complexity with clarity and accountability.
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
