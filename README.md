@@ -1,10 +1,13 @@
+© [2025] Avery Rijos. All rights reserved.
 # About Avery 
 
-I am a contradiction-centric systems consultant, ontological designer, and founder of PROMETHIVM Labs — an independent architecture and design think tank dedicated to crafting neuro-symbolic architectures that metabolize tension into structured, generative knowledge.
+I am a systems consultant, ontological designer, and founder of PROMETHIVM — an independent IT systems design and analysis consultancy dedicated to building contradiction-resilient IT systems that transform complexity into structured, actionable knowledge.
 
-I am a theorist and an engineer. A thinker and a doer. A philosopher and a scientist. A realist and a dreamer. 
+I bridge theory and implementation. I am both a systems thinker and a practical engineer. I combine rigorous analysis with creative problem-solving to deliver IT architectures that adapt, evolve, and align with changing organizational realities.
 
-My work is rooted in Ontopolitical Architectonics, my signature meta-cross-paradigm that reframes reality as a governed, malleable architecture — one built not only by material conditions but by narrative codes, affective and cognitive infrastructures, and mythogenic systems. I see imagination as sovereign, absence and error as generative, and contradiction as sacred design fuel.
+My approach is rooted in Ontopolitical Architectonics — a cross-disciplinary framework that treats systems not just as technical infrastructures, but as dynamic, governed architectures shaped by people, data, workflows, and the stories they tell. I see complexity as potential, gaps as opportunities, and contradictions as catalysts for more resilient design.
+
+Through this lens, I help organizations architect IT systems that balance robust governance with the flexibility to grow, ensuring that every contradiction becomes a source of insight and innovation.
 
 ```
 ====================================================================================
