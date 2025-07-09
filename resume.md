@@ -1,4 +1,5 @@
-# Avery Alexander Rijos - Principal Consultant | Systems Engineering & Program Management
+# Avery Alexander Rijos 
+## Principal Consultant | Systems Engineering & Program Management
 
 Somerset, New Jersey
 
