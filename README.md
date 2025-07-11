@@ -1,7 +1,7 @@
 # Avery Alexander Rijos, M.S.
 Somerset, New Jersey  
 (732) 688-8287  
-averyarijos@outlook.com  
+promethivm@gmail.com
 [LinkedIn](https://www.linkedin.com/in/avery-rijos/)
 
 ---
