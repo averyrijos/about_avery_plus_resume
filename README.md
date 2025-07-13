@@ -1,110 +1,146 @@
-# Avery Alexander Rijos, M.S.
+# Avery Alexander Rijos, M.S.M.
 Somerset, New Jersey  
 (732) 688-8287  
-promethivm@gmail.com
-[LinkedIn](https://www.linkedin.com/in/avery-rijos/)
+averyarijos@outlook.com | LinkedIn
 
 ---
 
-## EDUCATION
+## Education
 
-**New Jersey Institute of Technology** — Newark, NJ  
-**Master’s Degree – Project Management**  
-*December 2023*
+**New Jersey Institute of Technology** | Newark, NJ  
+Master’s Degree – Management | December 2023
 
-**Kean University** — Union, NJ  
-**Bachelor’s Degree – Political Science, Minor in Economics**  
-*May 2020*  
-- Concentration: International Relations
+**Kean University** | Union, NJ  
+Bachelor’s Degree – Political Science, Minor in Economics | May 2020  
+Concentration: International Relations
 
 ---
 
-## HONORS AND AWARDS
+## Honors and Awards
 
-- Pi Sigma Alpha – Political Science Honors Society
-
----
-
-## PROFESSIONAL WORK EXPERIENCE
-
-### **PROMETHIVM Labs LLC**  
-*Principal Consultant and Lead Project Manager*  
-*June 2025 – Present*
-
-I am the founder of PROMETHIVM Labs — an independent boutique program management consultancy dedicated to advancing systems analysis, system design, and technical program management as practical, vital tools for navigating contradiction, complexity, and constant change.
-
-My practice bridges rigorous systems thinking with real-world implementation. We help organizations transform ambiguous and conflicting problem spaces into clear, actionable frameworks that align human values, stakeholder needs, and evolving socio-technical environments. This means developing design methodologies, governance structures, and program management protocols that treat systems not as rigid machines but as living, evolving organisms capable of learning through their own friction points.
-
-As Founder & Principal Consultant, I lead this work — ensuring every engagement upholds our commitment to ethical coherence, stakeholder alignment, and robust, contradiction-resilient design. We reject brittle, one-size-fits-all solutions. Instead, we build systems and programs designed to stay open to ongoing refinement and resilient by design.
+**Pi Sigma Alpha** – Political Science Honors Society | Kean University
 
 ---
 
-### **Career Break**  
-*March 2024 – April 2025*
+## Professional Experience
+
+### PROMETHIVM  
+**Principal Consultant | Competitive Strategy, Cost Management, Process and Project Optimization**  
+May 2025 – Present
+
+I’m the founder and Principal Consultant of PROMETHIVM, where I blend deep systems thinking, project management, and process strategy with my philosophical commitment to contradiction-resilient design. I believe that every system — whether organizational, technological, or human — is an architectural site shaped by power, narrative, and imagination. My consulting work is rooted in the idea that tension and paradox are not obstacles to fix but vital sources of resilience and generative potential.
+
+Drawing from my frameworks in Ontopolitical Architectonics and Posthumanist Phenomenology, I see process improvement and strategic planning as forms of world-making. Each engagement is an opportunity to transform inefficiencies and contradictions into adaptive, evolving workflows that unlock hidden value. In a world defined by complexity and constant change, I guide clients to build processes that are not just efficient but reflexive, resilient, and ethically grounded — maximizing their capacity to grow and reimagine what’s possible.
 
 ---
 
-### **Abbott Laboratories (Short-Term Contract)**  
-*Sr. Operations Analyst – FP&A (with Solution Architecture focus)*  
-*January 2024 – March 2024*
+### GlobalLogic  
+**Independent Contractor**  
+March 2024 – October 2024
 
-- Designed and optimized end-to-end financial reporting architecture for a global unit generating ~$45M in monthly revenue, building standardized pipelines for daily, weekly, and annual reporting that improved consistency, traceability, and scalability.
-- Integrated disparate data sources (SAP, QAD, ISS, and internal systems) into a unified reporting framework, enhancing data quality and providing stakeholders with a single source of truth for strategic decision-making.
-- Developed robust reconciliation and validation frameworks (variance, sensitivity, scenario analyses) to ensure financial data integrity, aligning technical workflows with business objectives.
-- Architected reporting modules to clarify variances and business impacts, ensuring alignment with month-end close cycles and mitigating risks from currency fluctuations, intercompany transactions, and accrual adjustments.
-- Led continuous process reengineering within the APOC FP&A domain, mapping and refining month-end close processes to reduce cycle times while maintaining data governance standards.
-- Created reusable templates and modular reporting components, driving automation and freeing up analyst capacity for higher-value analytical work.
-
----
-
-### **Fiserv, Inc. (Full-Time)**  
-*Portfolio Manager – Project Portfolio Management (with Solution Architecture focus)*  
-*June 2022 – March 2023*
-
-- Orchestrated the architecture and governance of an $80M enterprise project portfolio, designing frameworks to move initiatives from intake through execution while ensuring alignment with enterprise architecture standards and strategic goals.
-- Defined and enforced portfolio governance models, risk frameworks, and decision matrices that streamlined project pipelines and improved cost efficiency.
-- Facilitated architectural planning sessions with multi-functional stakeholders, translating complex business requirements into actionable project scopes, roadmaps, and solution designs.
-- Built reporting solutions that delivered up to $30K in cash flow benefits per project, connecting financial modeling with actionable insights for resource allocation and portfolio optimization.
+- Spearheaded the evaluation and iterative refinement of AI-generated prompts, applying critical analysis to ensure each prompt met high standards of coherence, thematic relevance, and ethical integrity — resulting in significant improvements to the quality, usability, and trustworthiness of AI-driven outputs.
+- Curated and designed a comprehensive prompt library covering diverse subject areas, integrating interdisciplinary perspectives and novel frameworks to expand the AI’s creative and problem-solving range.
+- Coordinated closely with cross-functional teams — including AI developers, UX designers, and content strategists — to integrate user feedback and operationalize continuous learning loops.
+- Developed clear guidelines and best practices for prompt creation, balancing clarity and inclusivity with complexity and depth, to advance ethical AI development.
+- Monitored trends in generative AI, knowledge management, and computational linguistics to inform ongoing improvements.
+- Maintained meticulous quality assurance to safeguard accuracy, reduce bias, and support diverse user experiences.
 
 ---
 
-### **Bank of New York Mellon (Short-Term Contract)**  
-*Jr. Operations Analyst*  
-*March 2022 – June 2022*
+### Abbott Laboratories  
+**Independent Contractor – Global FP&A**  
+January 2024 – March 2024
 
-- Designed and executed reconciliation workflows that ensured the accuracy of trading ledgers across multiple financial products, integrating multi-currency transaction systems to maintain data integrity for trades exceeding $50M daily.
-- Developed exception handling modules to rapidly resolve discrepancies, embedding systemic controls that strengthened the architecture of daily financial operations.
-- Acted as a key liaison between trading desks and back-office systems, facilitating real-time issue resolution and minimizing business disruption through robust communication protocols.
-- Conducted root cause analyses to identify systemic flaws in data and process flows, feeding insights back into workflow designs that reduced recurring exceptions and increased system reliability.
-- Enhanced departmental control frameworks by automating daily reporting controls, ensuring compliance with regulatory standards and strengthening audit-readiness.
+- Organized processes for collecting, analyzing, and reporting financial data for a global business unit totaling ~$45MM monthly.
+- Consolidated communication across functions and regions to verify data from SAP, QAD, ISS, and other internal systems.
+- Ensured data integrity through reconciliations, variance/sensitivity/scenario analysis, and strategic reporting.
+- Supported month-end close for international APOC sales, managing currency adjustments, intercompany eliminations, rebates, and accruals.
+- Optimized credit history investigations and ERP supply chain release holds.
+- Performed business process improvement for APOC FP&A, streamlining the month-end closing process.
 
 ---
 
-## CORE SKILLS
+### Fiserv  
+**Project Portfolio Manager**  
+June 2022 – March 2023
 
-- **Complex Systems Analysis & Workflow Optimization**  
-  Skilled at analyzing and optimizing complex, cross-functional workflows to improve efficiency, reduce risk, and support scalable program delivery.
+- Managed corporate portfolio oversight for projects totaling $80MM+, guiding them from scoping through PM handoff.
+- Streamlined governance and risk profiling, achieving cost savings and operational efficiency.
+- Led strategic planning with stakeholders to define scope, objectives, and critical paths for complex IT installations.
+- Produced and analyzed financial reports, generating up to $30K in cash benefits per project.
+- Developed process documentation aligned with Knowledge Management best practices.
+- Facilitated continuous improvement initiatives, leveraging feedback loops for process refinement.
 
-- **End-to-End Program Management & Integration Oversight**  
-  Proven ability to manage the integration of disparate platforms (e.g., SAP, QAD, custom systems) into unified solutions, ensuring requirements traceability and stakeholder alignment.
+---
 
-- **Process Improvement & Operational Excellence**  
-  Experienced in mapping, analyzing, and re-engineering processes using Lean, Six Sigma, and continuous improvement methods to drive measurable performance gains.
+### Bank of New York Mellon  
+**Independent Contractor**  
+March 2022 – June 2022
 
-- **Data & Reporting Governance**  
-  Strong track record overseeing robust financial and operational reporting pipelines with validation, variance analysis, and compliance controls that support executive decision-making.
+- Ensured integrity of financial systems by resolving diverse trading ledger discrepancies.
+- Reconciled daily transactions exceeding $50MM in trading volume across eight currencies.
+- Acted as primary escalation point for trading desks and business partners.
+- Conducted root cause analyses, provided feedback, and implemented corrective actions.
+- Streamlined control reporting processes, ensuring regulatory compliance.
+- Leveraged data insights to optimize reconciliation workflows and enhance efficiency.
 
-- **Requirements Engineering & Traceability**  
-  Expert in translating complex regulatory, technical, or business requirements into clear deliverables, maintaining version control and ensuring alignment across stakeholders.
+---
 
-- **Risk Management & Compliance**  
-  Skilled at developing and managing risk assessments, compliance frameworks, and audit-ready controls for large-scale programs.
+### Bank of America – Merrill Lynch  
+**Independent Contractor**  
+October 2021 – March 2022
 
-- **Cross-Functional Communication & Stakeholder Alignment**  
-  Adept at working with technical and non-technical teams, ensuring shared understanding of goals, dependencies, and trade-offs.
+- Supported Global Wealth and Investment Management within Global Technology and Operations, focusing on cost basis adjustments for securities.
+- Directed Date of Death Updates and Private Bank Trust transfers for trustees and grantors.
+- Applied Business Process Management to increase transaction volume, managing over $30MM in estate and account transactions.
+- Conducted root cause analysis to identify and address workflow inefficiencies.
+- Collaborated cross-functionally to ensure accurate reporting and risk management.
 
-- **Tool Proficiency**  
-  Hands-on experience with Python, IDEs, ERP and BI platforms (SAP, TM1, Power Query, Excel Power Tools), plus knowledge graph approaches for managing complex dependencies.
+---
 
-- **Innovative Problem-Solving**  
-  Applies contradiction-resilient thinking and symbolic reasoning to identify root causes, navigate ambiguity, and guide programs through evolving technical and business constraints.
+## Core Skills
+
+• **Project & Program Management** — Proven ability to plan, execute, and deliver complex, cross-functional projects on time and within scope.  
+• **Cost Management & Financial Optimization** — Develops cost baselines, tracks budgets, and implements controls that drive profitability and growth.  
+• **Competitive Strategy Development** — Conducts market and competitor analysis to identify strategic opportunities and build sustainable advantage.  
+• **Complex Systems Analysis & Workflow Optimization** — Maps and re-engineers workflows to improve efficiency and scalability.  
+• **End-to-End Integration & Requirements Governance** — Integrates disparate platforms into cohesive solutions with clear traceability.  
+• **Process Improvement & Operational Excellence** — Leverages Lean, Six Sigma, and continuous improvement for measurable gains.  
+• **Data-Driven Decision Support & Reporting** — Oversees reporting pipelines with validation, variance analysis, and compliance controls.  
+• **Risk Management & Regulatory Compliance** — Develops risk assessments, compliance protocols, and audit-ready controls.  
+• **Stakeholder Engagement & Communication** — Communicates complex ideas across audiences for shared understanding and alignment.  
+• **Tool Proficiency** — Budgeting tools, ERP systems (SAP, TM1), BI platforms, advanced Excel, Python, knowledge graphs.  
+• **Innovative & Contradiction-Resilient Problem-Solving** — Applies systems thinking to untangle root causes and design adaptive strategies.
+
+---
+
+## Thought Leadership
+
+### Ontopolitical Architectonics: Toward a Unified Theory of World-Making  
+*Published Paper, PhilPapers Repository | [https://philpapers.org/rec/RIJOAT]*
+
+- A meta-theoretical framework that reconceives reality as malleable architecture governed by semiotic codes, affective infrastructures, and mythic programs.
+- Articulated a ten-axiom stack culminating in the universal ethical law *Good = d(OGI)/dt*, a metric for maximizing a system’s generative capacity.
+- Practical applications: Designing systems that expand possibility and resilience; embedding continuous learning and redesign; using narrative and myth as levers for transformation.
+- Advanced “Resistance as Redesign” and treated the self as an architectural site for iterative becoming.
+
+---
+
+### Posthumanist Phenomenology and Artificial Intelligence  
+*Published Paper, PhilPapers Repository | [https://philpapers.org/rec/RIJAPA-3]*
+
+• A cutting-edge inquiry into AI through posthumanist philosophy, reimagining identity, cognition, and agency beyond traditional frameworks.  
+• Synthesized Deleuze, Foucault, and Haraway to critique AI’s epistemological foundations. Practical application: Diverse perspectives for ethical AI design.  
+• Proposed negative augmentation as a productive force. Practical application: AI models that leverage absence and negative data.  
+• Explored computational qualia within AI systems. Practical application: Enhancing transparency and ethics.  
+• Addressed latent anthropocentrism in Euclidean geometries and adversarial models. Practical application: Non-Euclidean algorithms for improved reasoning.  
+• Emphasized an ethics of alterity and interconnectivity. Practical application: Inclusive AI design prioritizing marginalized perspectives.
+
+---
+
+### The Agency of Matter: Exploring New Materialisms  
+*Medium / Philosophy Today | Published July 2025*
+
+• Investigates “new materialism,” recognizing matter as dynamic and agentive, challenging nature/culture dualisms.  
+• Highlights concepts like agential realism, intra-action, and more-than-human assemblages.  
+• Explores implications for viewing objects, environments, and technologies as co-constitutive actors within broader networks.
