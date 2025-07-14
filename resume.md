@@ -13,7 +13,7 @@ Somerset, New Jersey
 
 ### New Jersey Institute of Technology - Newark, NJ
 
-- Master’s Degree – Technical Project Management | December 2023
+- Master’s Degree – Management | December 2023
 
 ### Kean University _\-_ Union, NJ
 
