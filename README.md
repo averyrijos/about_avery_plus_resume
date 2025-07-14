@@ -139,7 +139,7 @@ October 2021 – March 2022
 ---
 
 ### The Agency of Matter: Exploring New Materialisms  
-*Medium / Philosophy Today | Published July 2025*
+*Medium / Philosophy Today | Published July 2025* [
 
 • Investigates “new materialism,” recognizing matter as dynamic and agentive, challenging nature/culture dualisms.  
 • Highlights concepts like agential realism, intra-action, and more-than-human assemblages.  
