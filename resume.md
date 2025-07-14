@@ -1,5 +1,5 @@
 # Avery Alexander Rijos 
-## Principal Systems Architect |Socio-Technical Architecture, Project Delivery & Operational Performance
+## Principal Systems Consultant |Socio-Technical Architecture, Project Delivery & Operational Performance
 
 Somerset, New Jersey
 
