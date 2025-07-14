@@ -1,5 +1,5 @@
 # Avery Alexander Rijos 
-## Principal Systems Consultant | Systems Architecture, Project Delivery & Operational Performance
+## Principal Systems Architect |Socio-Technical Architecture, Project Delivery & Operational Performance
 
 Somerset, New Jersey
 
@@ -27,7 +27,7 @@ Pi Sigma Alpha – Political Science Honors Society
 ---
 
 ### Research and Professional Publications
-Role: Independent Systems Theorist
+Role: Systems Theorist
 
 Authored Ontopolitical Architectonics — a contradiction-centric framework that operationalizes affective architectures, generativity mapping, and ritual-operational design.
 
