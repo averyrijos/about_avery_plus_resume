@@ -1,5 +1,5 @@
 # Avery Alexander Rijos 
-## Principal Consultant | Systems Architecture & Project Management
+## Principal Systems Consultant | Systems Architecture, Project Delivery & Operational Performance
 
 Somerset, New Jersey
 
