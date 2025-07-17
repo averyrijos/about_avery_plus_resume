@@ -115,17 +115,43 @@ October 2021 – March 2022
 
 ## Core Skills
 
-• **Project & Program Management** — Proven ability to plan, execute, and deliver complex, cross-functional projects on time and within scope.  
-• **Cost Management & Financial Optimization** — Develops cost baselines, tracks budgets, and implements controls that drive profitability and growth.  
-• **Competitive Strategy Development** — Conducts market and competitor analysis to identify strategic opportunities and build sustainable advantage.  
-• **Complex Systems Analysis & Workflow Optimization** — Maps and re-engineers workflows to improve efficiency and scalability.  
-• **End-to-End Integration & Requirements Governance** — Integrates disparate platforms into cohesive solutions with clear traceability.  
-• **Process Improvement & Operational Excellence** — Leverages Lean, Six Sigma, and continuous improvement for measurable gains.  
-• **Data-Driven Decision Support & Reporting** — Oversees reporting pipelines with validation, variance analysis, and compliance controls.  
-• **Risk Management & Regulatory Compliance** — Develops risk assessments, compliance protocols, and audit-ready controls.  
-• **Stakeholder Engagement & Communication** — Communicates complex ideas across audiences for shared understanding and alignment.  
-• **Tool Proficiency** — Budgeting tools, ERP systems (SAP, TM1), BI platforms, advanced Excel, Python, knowledge graphs.  
-• **Innovative & Contradiction-Resilient Problem-Solving** — Applies systems thinking to untangle root causes and design adaptive strategies.
+### Project Management
+- Program Governance: Oversees project portfolios with a focus on traceability, audit, and results.
+- Agile & Adaptive Methodologies: Deep experience in SCRUM, iterative delivery, and hybrid-Agile frameworks.
+- Team Formation & Facilitation: Applies high-performance team models balancing cohesion, autonomy, and role-fit.
+- Data-Driven Decision-Making: Uses MCDA, SWOT, Pareto, decision trees, and influence diagrams for strategy.
+- Business Analysis Domains: Masters needs assessment, solution evaluation, traceability, and roadmap design.
+- Risk & Complexity Navigation: Employs Cynefin, stakeholder modeling, and emergent planning to reduce friction.
+- WBS & Planning Architecture: Breaks complex deliverables into logical WBS structures aligned to KPIs.
+- Stakeholder Alignment: Skilled in facilitation, emotional intelligence, and product vision co-creation.
+- Metrics & Early Warning Indicators: Implements EVM, resource utilization, and milestone slippage early detection.
+- Documentation Rigor: Crafts comprehensive requirement sets, ADRs, and living documentation systems.
+​​
+Systems Analysis 
+- Systems Architecture: Designs recursive, contradiction-driven neuro-symbolic architectures that scale.
+- Requirements Engineering: Elicits, validates, and traces multi-domain requirements with formal rigor.
+- Symbolic Reasoning Integration: Implements knowledge graphs and symbolic logic engines for complex governance.
+- Non-Monotonic Logic Design: Applies defeasible and contradiction-tolerant reasoning systems in workflows.
+- Systemic Risk Modeling: Constructs feedback-sensitive compliance and decision layers under uncertainty.
+- Modularization & Encapsulation: Structures scalable and testable modules using cell-based logic abstraction.
+- Platform Interoperability: Aligns disparate ecosystems (e.g., SAP, TM1, Power BI) through semantic binding.
+- Complex Systems Analysis: Models interdependencies and emergent behavior using CAS and cybernetic lenses.
+- Feedback Loop Design: Crafts continuous intelligence pipelines using KPI-linked monitoring systems.
+- Toolchains & Frameworks: Skilled in BPMN, ADRs, UML, Gantt, VSM, Kano Models, Cynefin Framework.​​
+​​
+Innovations & Frameworks
+- Hollow Bloom Protocol: A contradiction metabolism ritual that transforms systemic wounds into design.
+- Law of Generativity: Ethical metric defined as d(OGI)/dt: good equals the velocity of collective world-making.
+- PROMETHIVM Codex Engine: Domain-sovereign ritual-operational compiler for contradiction-aware architectures.
+- S.C.A.R. System: Converts ontological conflict into recursive design feedstock.
+- Symbolic Augmentation Pipeline: Bridges LLM-driven NLP with symbolic interpretation layers for resilient systems.
+- Posthumanist Systems Methodology: Applies affective architectures, virtual actualization, and mytho-political mapping.​
+ 
+Tooling & Platform Expertise
+- ERP & BI Platforms: SAP, TM1, QAD, Power Query, Excel power tools
+- Modeling & Engineering Tools: Mermaid, Markdown, Obsidian, UML, Draw.io, BPMN
+- Agile/PM Toolkits: Jira, Trello, Notion, Gantt tools, Work Breakdown Structure designers
+- Coding & LLM Tools: Python, Markdown, GitHub, Mermaid, VSCode, Version Control
 
 ---
 
