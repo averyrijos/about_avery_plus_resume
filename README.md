@@ -8,7 +8,7 @@ averyarijos@outlook.com | LinkedIn
 ## Education
 
 **New Jersey Institute of Technology** | Newark, NJ  
-Master’s Degree – Management | December 2023
+Master’s Degree – Project Management | December 2023
 
 **Kean University** | Union, NJ  
 Bachelor’s Degree – Political Science, Minor in Economics | May 2020  
