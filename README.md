@@ -25,12 +25,27 @@ Concentration: International Relations
 ## Professional Experience
 
 ### PROMETHIVM  
-**Principal Consultant | Competitive Strategy, Cost Management, Process and Project Optimization**  
+#### Project Systems Consultant | PMaaS, Implementation Design & Operational Architecture
 May 2025 – Present
 
-I’m the founder and Principal Consultant of PROMETHIVM, where I blend deep systems thinking, project management, and process strategy with my philosophical commitment to contradiction-resilient design. I believe that every system — whether organizational, technological, or human — is an architectural site shaped by power, narrative, and imagination. My consulting work is rooted in the idea that tension and paradox are not obstacles to fix but vital sources of resilience and generative potential.
+II founded PROMETHIVM - an independent consulting practice that designs and delivers friction-resilient, contradiction-aware project systems— aligning people, workflows, and tools to execute complex projects with clarity and confidence.
 
-Drawing from my frameworks in Ontopolitical Architectonics and Posthumanist Phenomenology, I see process improvement and strategic planning as forms of world-making. Each engagement is an opportunity to transform inefficiencies and contradictions into adaptive, evolving workflows that unlock hidden value. In a world defined by complexity and constant change, I guide clients to build processes that are not just efficient but reflexive, resilient, and ethically grounded — maximizing their capacity to grow and reimagine what’s possible.
+We believe tension and paradox aren’t flaws to eliminate but drivers of project resilience, innovation, and sustainable success. Through PMaaS, we help organizations turn conflicting priorities, hidden risks, and ambiguous scopes into actionable plans that deliver results — on time and on budget.
+
+Our PMaaS approach bridges rigorous systems thinking with real-world delivery. We help you untangle complex interdependencies and vague requirements, transforming them into clear project charters, robust governance structures, and resilient workflows that adapt as conditions shift.
+
+Our PMaaS services include:
+- End-to-End Project Planning & Coordination
+- Project Workflow Design & Optimization
+- Project Systems & Tools Integration
+- Project Performance Monitoring & Improvement
+- Fractional Project Management Solutions
+
+As Principal Consultant, I personally guide every engagement to ensure alignment, coherence, and accountability. We reject rigid, one-size-fits-all plans. Instead, we co-create project frameworks that remain flexible, version-controlled, and responsive to real-world challenges.
+
+In a world shaped by constant change, PROMETHIVM proves that successful projects depend on our ability to metabolize contradictions, adapt in real time, and protect the human and technical conditions that bring every project to life.
+
+Let’s build the living project systems your organization needs to deliver reliably, adapt continuously, and turn complexity into clarity — one project at a time.
 
 ---
 
