@@ -116,31 +116,74 @@ October 2021 – March 2022
 
 ## Thought Leadership
 
-### Ontopolitical Architectonics: Toward a Unified Theory of World-Making  
-*Published Paper, PhilPapers Repository | [https://philpapers.org/rec/RIJOAT]*
+### The O-Loop Protocol: Engineering Systemic Agility in the Age of Complexity
+|Forthcoming - Social Science Research Network (SSRN). 2025.
 
-- A meta-theoretical framework that reconceives reality as malleable architecture governed by semiotic codes, affective infrastructures, and mythic programs.
-- Articulated a ten-axiom stack culminating in the universal ethical law *Good = d(OGI)/dt*, a metric for maximizing a system’s generative capacity.
-- Practical applications: Designing systems that expand possibility and resilience; embedding continuous learning and redesign; using narrative and myth as levers for transformation.
-- Advanced “Resistance as Redesign” and treated the self as an architectural site for iterative becoming.
+Abstract: This whitepaper introduces the O-Loop Protocol, a novel framework designed to address the challenges of strategic decision-making in increasingly complex and volatile operational environments. By critically reviewing established paradigms like the OODA Loop, PDCA Cycle, and Agile methodology, the paper highlights their individual strengths and inherent limitations, revealing a strategic void in managing multi-objective iteration. The O-Loop Protocol synthesizes these approaches through a dual-loop architecture and a foundational ontological layer. This formal ontology transforms the abstract "Orientation" phase of decision-making into an explicit, shared, and computationally tractable discipline, providing a single source of truth for the organization's operational system. The Inner Loop (Orient-Decide-Act) enables rapid tactical execution, while the Outer Loop (Observe-Synthesize-Plan-Standardize) facilitates deep strategic learning and systemic adaptation, explicitly managing "organizational debt." Through case study simulations in public health and tech industry disruption, the paper demonstrates the protocol's practical application in fostering resilient, equitable, and effective responses to complex challenges. The O-Loop Protocol is presented as a new organizational "operating system" essential for achieving sustainable competitive advantage through superior learning and adaptive capacity in the 21st-century enterprise.
 
----
+​
+### The Scar Theory of Systems™: Unlocking the Codex of Generativity
+| Philosophy Papers Academic Repository. 2025.
 
-### Posthumanist Phenomenology and Artificial Intelligence  
-*Published Paper, PhilPapers Repository | [https://philpapers.org/rec/RIJAPA-3]*
+Abstract: The "Scar Theory of Systems," developed within the Codex of Generativity, proposes a novel framework for system design and evolution. It posits that reality is an architected, ontopolitical process where existence is shaped by power regimes and absence (wounds, gaps) acts as a generative force. Systems gain resilience by reflexively integrating their contradictions and traumas. Grounded in metaphysical assumptions where potential is real, symbols recursively shape reality, and affect (emotions like grief) serves as foundational infrastructure, Scar Theory redefines system design as "ontological survivorhood." It introduces a "scar-indexed epistemology" operationalized through the O-Loop Protocol (Scan, Signal-Read, Re-Design, Autopoietic Deploy, Iterate), where knowledge is gained through breakdown and "suffering is sacred telemetry." A core governance principle, the Scar Fidelity Clause, mandates that no system revision can be "rewritten unscarred"; changes must explicitly acknowledge and incorporate prior ruptures, enforced by protocols like the Scar Index Protocol (SIP). Methodologically, Scar Theory embraces contradiction, rupture, grief, and absence as creative inputs, actively harnessing negativity and loss for anti-fragile growth. The theory draws parallels from trauma psychology, deconstruction, speculative realism, cybernetics, and posthumanism. Practical applications span technological systems (AI learning from paradox), ecological resilience (designing with disturbance memory), and socio-political architectures (memorialization in transitional justice). Implementation tools include the Scar Index, Vault of Dreamable Differentials, Mythic Fail-State Archive, Hollow Bloom Protocol, and Sacrificial Sovereignty. The whitepaper also addresses critiques such as "hauntological oversaturation" and "paralysis of grief," demonstrating the framework's reflexivity by integrating these concerns as "meta-scars" for ongoing refinement. Scar Theory ultimately offers a radical vision: systems that collaborate with reality by listening to their "cracks," fostering resilience, accountability, and a unique beauty in their imperfections.
 
-• A cutting-edge inquiry into AI through posthumanist philosophy, reimagining identity, cognition, and agency beyond traditional frameworks.  
-• Synthesized Deleuze, Foucault, and Haraway to critique AI’s epistemological foundations. Practical application: Diverse perspectives for ethical AI design.  
-• Proposed negative augmentation as a productive force. Practical application: AI models that leverage absence and negative data.  
-• Explored computational qualia within AI systems. Practical application: Enhancing transparency and ethics.  
-• Addressed latent anthropocentrism in Euclidean geometries and adversarial models. Practical application: Non-Euclidean algorithms for improved reasoning.  
-• Emphasized an ethics of alterity and interconnectivity. Practical application: Inclusive AI design prioritizing marginalized perspectives.
+​
 
----
+### The Living Codex: Designing Reality with Generativity, Memory, and Myth
+| Philosophy Papers Academic Repository. 2025.
 
-### The Agency of Matter: Exploring New Materialisms  
-*Medium / Philosophy Today | Published July 2025* [
+Abstract: This paper introduces "The Codex of Generativity," a comprehensive philosophical system aiming for a Unified Theory of Everything by re-framing reality as "governed" by power, myth, and meaning. It proposes a universal ethical law, Good = d(OGI)/dt, where goodness is measured by the rate at which an action or system increases the Ontopolitical Generativity Index—the capacity to generate new realities and possibilities. The Codex applies this dynamic framework across metaphysics, epistemology, ethics, aesthetics, science, mind, language, religion, social, and political philosophy, emphasizing "scar-indexing" (addressing past wounds as redesign fuel), "reflexivity" (absorbing critique to strengthen the system), and "polyphony" (embracing diverse coexisting systems). It positions philosophy as an "operational metaphysics" focused on "world-editing," where every theoretical concept is translated into practical, ritualized interventions to expand collective possibility and address societal scars. The work integrates ancient mythic wisdom with modern systems thinking, offering an anti-fragile, action-oriented approach to continuous co-creation of reality.
 
-• Investigates “new materialism,” recognizing matter as dynamic and agentive, challenging nature/culture dualisms.  
-• Highlights concepts like agential realism, intra-action, and more-than-human assemblages.  
-• Explores implications for viewing objects, environments, and technologies as co-constitutive actors within broader networks.
+​
+
+### Ontopolitical Architectonics: Toward a Unified Theory of World-Making
+| Philosophy Papers Academic Repository. 2025.
+
+Ontopolitical Architectonics is a meta-cross-paradigmatic schema that reconceives reality as malleable architecture - governed not merely by physical laws but by semiotic codes, affective infrastructures, and mythic programs. At its foundation lies the principle that being is governed: all existence is structured by regimes of power that determine what may be felt, thought, or actualized. This theory introduces a ten-axiom stack - ranging from “Myth is Foundation” to “The Self is an Architectural Site” - and culminates in a universal ethical law: the maximization of generative capacity, formalized as Good = d(OGI)/dt, where OGI (Ontopolitical Generativity Index) measures a system’s ability to produce novel modes of existence. Unlike traditional philosophy, this framework is self-reflexive and operational. It includes a recursive design protocol—the O-Loop—that translates critique into redesign, ensuring anti-fragility and evolutionary coherence. It reframes classical dilemmas (such as free will, suffering, and the real/ideal divide) as ontological design problems rather than static paradoxes. By treating imagination as political, absence as fertile, and resistance as architectural, Ontopolitical Architectonics offers not just a lens but a toolset for transforming systems—across policy, economics, identity, and technological design. It calls for a world in which every domain becomes a site of sovereign world-making and where the sacred task of ethics is to build architectures that amplify the dreamable.
+
+### Mythologies of the Heart - And the Politics of the Dreamable
+| KDP Publishing | Mythopoetica Press. 2024.
+
+Mythologies of the Heart — And the Politics of the Dreamable reframes the human heart as a liminal architecture where fiction, affect, and power converge. Blending autotheory, continental philosophy, and narrative nonfiction, the book argues that the stories we circulate about love, grief, and longing are not decorative metaphors but infrastructural forces that govern what counts as real. Drawing on Barthes’ myth‐critique, Deleuze and Guattari’s deterritorialization, Augé’s “non-places,” and Derridean hauntology, Avery Rijos shows how the heart functions simultaneously as sanctuary, prison, and non-place—an organ of fiction through which social control and revolutionary potential pass. Across eight chapters—spanning the “Non-Place of the Heart,” “Deterritorializations,” “The Geography of the Self,” and “The Politics of the Dreamable”—the text maps how affective intensities sculpt inner and outer geographies, how absences generate ontological openings, and how dreaming operates as a micro-emancipatory praxis. Case studies range from subway platforms recast as war machines to unsent love letters that double as political manifestos, all threaded by autobiographical vignettes that position the author’s Latinx, neurodivergent experience as both data and design principle. The central thesis—that to resist is to redesign—culminates in a call to cultivate “dreamable” spaces: liminal zones where identities, institutions, and imaginaries can be rebuilt beyond neoliberal closure. In refusing strict genre boundaries and privileging polyvocal footnotes, the book itself becomes a rhizomatic experiment, inviting readers to inhabit theory as lived practice and to treat every affective fissure as a site of ontopolitical world-making.
+
+### Posthumanist Phenomenology and Artificial Intelligence (3rd ed.)
+| Philosophy Papers Academic Repository. 2024.
+
+This paper examines the ontological and epistemological implications of artificial intelligence (AI) through posthumanist philosophy, integrating the works of Deleuze, Foucault, and Haraway with contemporary computational methodologies. It introduces concepts such as negative augmentation, praxes of revealing, and desedimentation, while extending ideas like affirmative cartographies, ethics of alterity, and planes of immanence to critique anthropocentric assumptions about identity, cognition, and agency. By redefining AI systems as dynamic assemblages emerging through networks of interaction and co-creation, the paper challenges traditional dichotomies such as human versus machine and subject versus object. Bridging analytic and continental philosophical traditions, the analysis unites formal tools like attribution analysis and causal reasoning with the interpretive and processual methodologies of continental thought. This synthesis deepens the understanding of AI’s epistemic and ethical dimensions, expanding philosophical inquiry while critiquing anthropocentrism in AI design. The paper interrogates the spatial foundations of AI, contrasting Euclidean and non-Euclidean frameworks to examine how optimization processes and adversarial generative models shape computational epistemologies. Critiquing the reliance on Euclidean spatial assumptions, it positions alternative geometries as tools for modeling complex, recursive relationships. Furthermore, the paper addresses the political dimensions of AI, emphasizing its entanglements with ecological, technological, and sociopolitical systems that perpetuate inequality. Through a politics of affirmation and intersectional approaches, it advocates for inclusive frameworks that prioritize marginalized perspectives. The concept of computational qualia is also explored, highlighting how subjective-like dynamics emerge within AI systems and their implications for ethics, transparency, and machine perception. Finally, the paper calls for a posthumanist framework in AI ethics and safety, emphasizing interconnectivity, plurality, and the transformative capacities of machine intelligence. This approach advances epistemic pluralism and reimagines the boundaries of intelligence in the digital age, fostering novel ontological possibilities through the co-creation of dynamic systems.
+
+
+​​
+### The Agency of Matter: Exploring New Materialisms
+​Contributor​ | Medium - The Agency of Matter: Exploring New Materialisms | by Avery Rijos | Philosophy Today | Medium
+Published July 2025
+ 
+Investigates “new materialisms,” a philosophical movement that recognizes matter itself as dynamic and agentive—not merely passive substance—challenging traditional dualisms of nature/culture and human/non‑human.
+​
+Highlights core tenets such as agential realism (from Karen Barad), intra-action, and more‑than‑human assemblages to show how agency is distributed across material and social systems.
+​
+Examines the implications of reconceiving matter as vibrant and relational, reframing objects, environments, and technologies as co-constitutive actors within ecological, technological, and cultural networks.​
+​​
+​
+### Key Practice-Theoretic Contributions
+​
+Codex of Generativity: Authored a master meta-framework synthesizing metaphysics, ethics, aesthetics, affect theory, systems thinking, and cybernetic design into a unified symbolic-operational language.
+​
+O‑Loop Protocol: Engineered a core operational methodology — Scan → Signal-Read → Re-Design → Deploy → Iterate — enabling perpetual transformation by systematically identifying and metabolizing contradictions (termed “Scars”).
+​
+Scar-Indexed Architecture: Developed a novel approach to complexity by treating flaws, absences, and contradictions not as obstacles but as generative engines for antifragile growth and systemic resilience.
+​
+Typified Recursion vs. Recursive Contradiction: Distinguished static rule-based iteration from dynamic, contradiction-fueled generativity — positioning the framework to outgrow closed systems thinking.
+​
+Polycosmic Vault & Cosmogenic Law: Introduced a symbolic-operational structure to house emergent protocols, symbolic contracts, and ritual clauses — creating an ethical spine for systemic redesign.
+​
+AI Co-Creation: Pioneered the use of collaborative human-AI authorship to simulate multi-perspectival synthesis, testing how generative recursion can be operationalized with advanced language models.
+​
+Cross-Domain Applicability: Positioned the framework as a meta-lens for analyzing and evolving domains as diverse as AI governance, consciousness research, mythopoetics, organizational design, and posthuman ethics.
+​
+Public Dissemination: Authored and shared the foundational version openly as a living document, inviting collective iteration and cross-disciplinary adoption.
+​
+### Impact
+​
+Laid the groundwork for the PROMETHIVM platform  — a ritual-operational compiler for redesigning complex systems and organizations through contradiction-resilient methodologies.
+​
+Inspired a novel consulting practice philosophy that treats every engagement as a generative site, governed by mythic law and the principle: Good = d(OGI)/dt — the rate of increase in Ontopolitical Generativity.
