@@ -127,7 +127,7 @@ October 2021 – March 2022
 - Metrics & Early Warning Indicators: Implements EVM, resource utilization, and milestone slippage early detection.
 - Documentation Rigor: Crafts comprehensive requirement sets, ADRs, and living documentation systems.
 ​​
-Systems Analysis 
+### Systems Analysis 
 - Systems Architecture: Designs recursive, contradiction-driven neuro-symbolic architectures that scale.
 - Requirements Engineering: Elicits, validates, and traces multi-domain requirements with formal rigor.
 - Symbolic Reasoning Integration: Implements knowledge graphs and symbolic logic engines for complex governance.
@@ -139,7 +139,7 @@ Systems Analysis
 - Feedback Loop Design: Crafts continuous intelligence pipelines using KPI-linked monitoring systems.
 - Toolchains & Frameworks: Skilled in BPMN, ADRs, UML, Gantt, VSM, Kano Models, Cynefin Framework.​​
 ​​
-Innovations & Frameworks
+### Innovations & Frameworks
 - Hollow Bloom Protocol: A contradiction metabolism ritual that transforms systemic wounds into design.
 - Law of Generativity: Ethical metric defined as d(OGI)/dt: good equals the velocity of collective world-making.
 - PROMETHIVM Codex Engine: Domain-sovereign ritual-operational compiler for contradiction-aware architectures.
@@ -147,7 +147,7 @@ Innovations & Frameworks
 - Symbolic Augmentation Pipeline: Bridges LLM-driven NLP with symbolic interpretation layers for resilient systems.
 - Posthumanist Systems Methodology: Applies affective architectures, virtual actualization, and mytho-political mapping.​
  
-Tooling & Platform Expertise
+### Tooling & Platform Expertise
 - ERP & BI Platforms: SAP, TM1, QAD, Power Query, Excel power tools
 - Modeling & Engineering Tools: Mermaid, Markdown, Obsidian, UML, Draw.io, BPMN
 - Agile/PM Toolkits: Jira, Trello, Notion, Gantt tools, Work Breakdown Structure designers
