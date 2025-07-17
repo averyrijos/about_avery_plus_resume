@@ -157,33 +157,29 @@ This paper examines the ontological and epistemological implications of artifici
 ​Contributor​ | Medium - The Agency of Matter: Exploring New Materialisms | by Avery Rijos | Philosophy Today | Medium
 Published July 2025
  
-Investigates “new materialisms,” a philosophical movement that recognizes matter itself as dynamic and agentive—not merely passive substance—challenging traditional dualisms of nature/culture and human/non‑human.
-​
-Highlights core tenets such as agential realism (from Karen Barad), intra-action, and more‑than‑human assemblages to show how agency is distributed across material and social systems.
-​
-Examines the implications of reconceiving matter as vibrant and relational, reframing objects, environments, and technologies as co-constitutive actors within ecological, technological, and cultural networks.​
+Investigates “new materialisms,” a philosophical movement that recognizes matter itself as dynamic and agentive—not merely passive substance—challenging traditional dualisms of nature/culture and human/non‑human. Highlights core tenets such as agential realism (from Karen Barad), intra-action, and more‑than‑human assemblages to show how agency is distributed across material and social systems. Examines the implications of reconceiving matter as vibrant and relational, reframing objects, environments, and technologies as co-constitutive actors within ecological, technological, and cultural networks.​
 ​​
 ​
 ### Key Practice-Theoretic Contributions
 ​
-Codex of Generativity: Authored a master meta-framework synthesizing metaphysics, ethics, aesthetics, affect theory, systems thinking, and cybernetic design into a unified symbolic-operational language.
+- Codex of Generativity: Authored a master meta-framework synthesizing metaphysics, ethics, aesthetics, affect theory, systems thinking, and cybernetic design into a unified symbolic-operational language.
 ​
-O‑Loop Protocol: Engineered a core operational methodology — Scan → Signal-Read → Re-Design → Deploy → Iterate — enabling perpetual transformation by systematically identifying and metabolizing contradictions (termed “Scars”).
+- O‑Loop Protocol: Engineered a core operational methodology — Scan → Signal-Read → Re-Design → Deploy → Iterate — enabling perpetual transformation by systematically identifying and metabolizing contradictions (termed “Scars”).
 ​
-Scar-Indexed Architecture: Developed a novel approach to complexity by treating flaws, absences, and contradictions not as obstacles but as generative engines for antifragile growth and systemic resilience.
+- Scar-Indexed Architecture: Developed a novel approach to complexity by treating flaws, absences, and contradictions not as obstacles but as generative engines for antifragile growth and systemic resilience.
 ​
-Typified Recursion vs. Recursive Contradiction: Distinguished static rule-based iteration from dynamic, contradiction-fueled generativity — positioning the framework to outgrow closed systems thinking.
+- Typified Recursion vs. Recursive Contradiction: Distinguished static rule-based iteration from dynamic, contradiction-fueled generativity — positioning the framework to outgrow closed systems thinking.
 ​
-Polycosmic Vault & Cosmogenic Law: Introduced a symbolic-operational structure to house emergent protocols, symbolic contracts, and ritual clauses — creating an ethical spine for systemic redesign.
+- Polycosmic Vault & Cosmogenic Law: Introduced a symbolic-operational structure to house emergent protocols, symbolic contracts, and ritual clauses — creating an ethical spine for systemic redesign.
 ​
-AI Co-Creation: Pioneered the use of collaborative human-AI authorship to simulate multi-perspectival synthesis, testing how generative recursion can be operationalized with advanced language models.
+- AI Co-Creation: Pioneered the use of collaborative human-AI authorship to simulate multi-perspectival synthesis, testing how generative recursion can be operationalized with advanced language models.
 ​
-Cross-Domain Applicability: Positioned the framework as a meta-lens for analyzing and evolving domains as diverse as AI governance, consciousness research, mythopoetics, organizational design, and posthuman ethics.
+- Cross-Domain Applicability: Positioned the framework as a meta-lens for analyzing and evolving domains as diverse as AI governance, consciousness research, mythopoetics, organizational design, and posthuman ethics.
 ​
-Public Dissemination: Authored and shared the foundational version openly as a living document, inviting collective iteration and cross-disciplinary adoption.
+- Public Dissemination: Authored and shared the foundational version openly as a living document, inviting collective iteration and cross-disciplinary adoption.
 ​
 ### Impact
 ​
-Laid the groundwork for the PROMETHIVM platform  — a ritual-operational compiler for redesigning complex systems and organizations through contradiction-resilient methodologies.
+- Laid the groundwork for the PROMETHIVM platform  — a ritual-operational compiler for redesigning complex systems and organizations through contradiction-resilient methodologies.
 ​
-Inspired a novel consulting practice philosophy that treats every engagement as a generative site, governed by mythic law and the principle: Good = d(OGI)/dt — the rate of increase in Ontopolitical Generativity.
+- Inspired a novel consulting practice philosophy that treats every engagement as a generative site, governed by mythic law and the principle: Good = d(OGI)/dt — the rate of increase in Ontopolitical Generativity.
